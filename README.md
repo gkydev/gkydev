@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Gökay
 
+I am a software engineering student 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gkydev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gkydev/gkydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
