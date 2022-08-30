@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gökay
 
-I am a software engineering student 
+I am a Software Engineer 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gkydev&&show_icons=true&theme=radical&line_height=27&v=5" alt="gkydev's GitHub Stats" />
