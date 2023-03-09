@@ -2,8 +2,6 @@
 
 I am a Software Engineer 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=gkydev&&show_icons=true&theme=radical&line_height=27&v=5" alt="gkydev's GitHub Stats" />
 <!--
 **gkydev/gkydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
